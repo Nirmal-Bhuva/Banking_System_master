@@ -19,12 +19,3 @@ Project Fractures is a comprehensive banking system simulation that allows users
 
 ## Usage
 To use Project Fractures, clone the repository and run the main file. Follow the prompts to perform any of the banking operations.
-
-## Support
-For any issues or inquiries, please reach out to me at [Harsh 09](mailto:your-email@example.com).
-
-## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/yourusername/project-fractures/issues) if you want to contribute.
-
-## Author
-Harsh 09
